@@ -8,7 +8,7 @@ Virtual Tourist is the fifth project in the iOS Developer Nanodegree in Udacity.
 
 
 **You will need to insert your Flickr API Key into:**
-<project-root>/Virtual Tourist/API/Extensions/FlickrClient+Constants.swift
+&lt;project-root&gt;/Virtual Tourist/API/Extensions/FlickrClient+Constants.swift
 
 
 ```swift

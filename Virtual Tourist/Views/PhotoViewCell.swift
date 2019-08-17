@@ -22,7 +22,7 @@ class PhotoViewCell: UICollectionViewCell {
 	func setUpImage(_ data: Data) {
 		let image = UIImage(data: data)
 
-		self.imageView.image  = image
+		self.imageView.image = image
 		self.activityIndicator.stopAnimating()
 		self.activityIndicator.isHidden = true
 	}
